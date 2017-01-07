@@ -3,7 +3,7 @@
   :url "https://github.com/mdgart/clojure-genetic-algorithms"
   :license {:name "unlicense"
             :url "http://unlicense.org"}
-  :dependencies [[org.clojure/clojure "1.8.0"]]
+  :dependencies [[org.clojure/clojure "1.9.0-alpha14"]]
   :main ^:skip-aot genetic-algorithms.core
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}})
