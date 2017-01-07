@@ -1,28 +1,26 @@
 # genetic-algorithms
 
-FIXME: description
+Clojure port of "Machine Learning: Introduction to Genetic Algorithms"
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Clone from https://github.com/mdgart/clojure-genetic-algorithms.
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar genetic-algorithms-0.1.0-standalone.jar [args]
+TODO
 
 ## Options
 
-FIXME: listing of options this app accepts.
+TODO
 
 ## Examples
 
-...
+TODO
 
 ### Bugs
 
-...
+TODO
 
 ### Any Other Sections
 ### That You Think
@@ -30,7 +28,4 @@ FIXME: listing of options this app accepts.
 
 ## License
 
-Copyright © 2017 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+http://unlicense.org
